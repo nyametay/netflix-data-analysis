@@ -35,7 +35,7 @@ This project includes visualizations like bar graphs and heatmaps for better ins
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/netflix-data-analysis.git
+git clone https://github.com/nyametay/netflix-data-analysis.git
 cd netflix-data-analysis
 pip install -r requirements.txt
 ```
